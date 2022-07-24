@@ -3,32 +3,58 @@ body{
     margin-right: 5%;
 }
 .first-sect{
-        height: 300px;
+        height: 400px;
         width: 100%;
-        border: 2px solid green;
+        /* border: 2px solid green; */
+        background-color:black;
+        border-radius: 10px;
+}
+.second-sect{
+    padding-bottom: 20px;
 }
 .helf-width{
 height: 90%;
 width: 48%;
 float: left;
 margin: 10px;
-border: 1px solid burlywood;
+/* border: 1px solid burlywood; */
 }
+.banner-text{
+    padding-bottom: 20px;
+}
+h1,p{
+    color: white;
+    pa
+}
+.link-button {
+    background-color: orange;
+}
+.fa-solid{
+    color: white;
+}
+span{
+    color: white;
+}
+
+
 .menu{
-height: 700px;
+height: 360px;
 width: 23%;
+margin-top: 25px;
 border: 1px solid hotpink;
 float: left;
+background-color:black;
+border-radius: 10px;
 }
 .blog{
 height: auto;
 width: 100%;
-border: 1px solid red;
 }
 .blog-content{
 height: 340px;
 width:310px;
 border: 1px solid blueviolet;
+/* float: left; */
 float: left;
 margin: 10px;
 }
