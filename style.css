@@ -1,0 +1,40 @@
+body{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.first-sect{
+        height: 300px;
+        width: 100%;
+        border: 2px solid green;
+}
+.helf-width{
+height: 90%;
+width: 48%;
+float: left;
+margin: 10px;
+border: 1px solid burlywood;
+}
+.menu{
+height: 700px;
+width: 23%;
+border: 1px solid hotpink;
+float: left;
+}
+.blog{
+height: auto;
+width: 100%;
+border: 1px solid red;
+}
+.blog-content{
+height: 340px;
+width:310px;
+border: 1px solid blueviolet;
+float: left;
+margin: 10px;
+}
+.submenu{
+height: 50px;
+width: 80%;
+margin: 10px;
+border: 1px solid black;
+}
